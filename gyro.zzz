@@ -1,0 +1,14 @@
+pkgs:
+  shano:
+    version: 0.0.0
+    license: MIT
+    description: Shano Zig library
+    source_url: "https://github.com/reo101/shano"
+    root: shano.zig
+    files:
+      README.md
+      LICENSE
+      test.zig
+      n_dimensional_slices.zig
+
+# vim: ft=yaml
