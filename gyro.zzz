@@ -9,6 +9,6 @@ pkgs:
       README.md
       LICENSE
       test.zig
-      n_dimensional_slices.zig
+      src/*.zig
 
 # vim: ft=yaml
