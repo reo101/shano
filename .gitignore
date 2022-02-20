@@ -1,0 +1,12 @@
+# Zig programming language
+
+zig-cache/
+zig-out/
+build/
+build-*/
+docgen_tmp/
+
+# Gyro package manager
+.gyro/
+deps.zig
+gyro.lock
